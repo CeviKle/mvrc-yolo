@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 7
+names: ['Fish', 'Shark', 'Squid', 'Star-fish', 'Ray', 'Turtle', 'Jelly-fish']
